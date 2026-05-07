@@ -1,0 +1,50 @@
+What type of programming language is Python regarding its purpose?,Python is a general-purpose programming language.
+"In terms of memory management and variable declaration, Python is classified as a _____ typed language.",dynamically
+"Python's syntax is designed to be close to human language, making it a _____-level programming language.",high
+Who is the developer credited with creating the Python programming language?,Guido van Rossum
+In which year was the Python programming language developed and released to the public?,1991
+What is the primary characteristic of 'dynamically typed' languages like Python?,"Data types are automatically assigned, so manual declaration is not required."
+How does Python syntax compare to the English language?,It is written in a high-level format that reads like English statements.
+Which specific Python function is used to display a message or output to the screen?,The print() function.
+What is the official website used to download the Python installer?,python.org
+What command can be used in the Windows Command Prompt (CMD) to check if Python is successfully installed?,py (or python)
+"In the Python Shell, what do the three greater-than symbols ($>>>$) represent?","The Python interpreter's prompt, indicating it is ready for code input."
+Python is called an _____ language because it executes code line by line and provides immediate results.,interpreted
+Term: IDLE,"Definition: Integrated Development and Learning Environment, the default editor provided with Python."
+How can two numbers be added in Python without using the print() function in the interactive shell?,"By directly typing the addition logic (e.g., a + b) and hitting enter."
+"In the Python Shell, what is the result of entering a line with a typo like 'prink' instead of 'print'?","A NameError is displayed, often suggesting the correct spelling."
+What is the main limitation of writing code directly in the Python Shell (REPL)?,It only allows for one-line execution and provides results immediately for each line.
+Which IDLE menu option allows you to write a multi-line program rather than single-line shell commands?,File > New File
+What is the keyboard shortcut or menu command to run a script in Python IDLE?,Run > Run Module (or F5).
+"If an error is detected in the middle of a multi-line script, what happens to the remaining code after the error?",The script stops execution and the subsequent code will not run.
+Where did Guido van Rossum derive the name 'Python' from?,A BBC comedy show called 'Monty Python’s Flying Circus'.
+Why did the developer choose the name 'Python' for the programming language?,He was a big fan of the comedy show and wanted a name that was short and unique.
+The feature 'Free and Open Source' means users can download Python for free and also _____.,modify the source code according to their requirements
+What is meant by the 'Platform Independent' feature in Python?,Programs can be created on one platform and run on any other operating system.
+How does Python's 'Large Standard Library' benefit developers?,It provides pre-written modules for various tasks that can be easily imported and used.
+Python is described as 'Portable' because code written on Windows can be moved and run on _____.,other operating systems like Linux or macOS
+"According to the transcript's corrected definition, what is 'Embedded' programming in Python?",The ability to use code from other languages (like C or Java) within a Python program.
+"According to the transcript's corrected definition, what is the 'Extensible' feature of Python?",The ability to use Python code within programs written in other languages like C or Java.
+Which application of Python involves creating and managing websites?,Web Development
+"Python is widely used in the field of _____, allowing computers to learn from data.",Machine Learning
+Which specific branch of technology uses Python to simulate human intelligence?,Artificial Intelligence (AI)
+"Python can be used for 'Database Lighting,' which involves connecting to databases and running _____.",queries
+What is a major limitation of Python regarding modern smartphone platforms?,It is not used for creating Android or mobile applications.
+Why is Python sometimes considered inferior to other languages for high-performance tasks?,Its execution speed is relatively slow compared to languages like C or C++.
+What is the benefit of the 'Simple and Easy' feature of Python for beginners?,It allows individuals to learn the language with high interest and minimal complexity.
+"What type of programming deals with communication between computers, often performed using Python?",Network Programming
+"In the IDLE script editor, what must a user do before they are allowed to run their code?",The user must save the file.
+"What field of programming involves the Internet of Things, frequently supported by Python?",IoT Programming
+"Python's ability to be used for websites, games, and AI demonstrates its nature as a _____ purpose language.",general
+What happens when a user types $a = 10$ and $b = 20$ in the Python Shell and then enters $a + b$?,The result 30 is displayed immediately.
+What does the Python interpreter do if it detects an error like 'Print' instead of 'print'?,It alerts the user that 'Print' is not defined and asks if they meant 'print'.
+"In the context of Python, what does the term 'Open Source' imply about its cost?",It is available for use without any financial charges.
+"Python can be used for _____ development, which involves building interactive entertainment software.",Game
+Which programming language component translates Python code line-by-line during execution?,The Interpreter
+How does the Python Shell handle multi-line logic like a 'Palindrome' program?,It cannot effectively handle it because it executes and gives results line-by-line.
+Python is considered _____ because it allows a developer to focus on the logic rather than complex syntax.,simple and easy
+"Which platform broadcasted 'Monty Python's Flying Circus', the show that inspired Python's name?",BBC
+What was the genre of the show 'Monty Python’s Flying Circus'?,Comedy
+"Python is described as having _____ typed data, meaning the user does not need to specify 'int' or 'float'.",dynamically
+"To run Python in a Windows Command Prompt after installation, which command specifically launches the interactive shell?",py
+What is the primary advantage of the 'Large Library' feature during development?,It saves time by allowing developers to use existing code for almost any task.
