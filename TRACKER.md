@@ -1,15 +1,16 @@
 # 📋 Python + OOPs Journey Progress Tracker
+
 Welcome to my 30-day learning log! This sheet tracks my daily topics, resources, and completion status.
 
 📋 **Course Details**
 
-Instructor: **Muhammad Bilal**
-
-YouTube Channel: **Code with Bilal**
-
-Duration: **1-30days**
-
-Goal: Master Python + OOPs Concept with daily life example 
+- **Instructor:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-dev/)
+- 
+- **YouTube Channel:** [Code With Bilal (Playlists)](https://www.youtube.com/@Code-With-Bilal/playlists) 👈 *Direct link to course videos*
+- 
+- **Duration:** 1 - 30 Days Roadmap
+- 
+- **Goal:** Master Python + OOPs Concepts with real-life examples.
 
 
 
