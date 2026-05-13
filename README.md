@@ -7,6 +7,7 @@
 
 ## 🔗 Quick Links
 - 📘 **Detailed Course Outline:** [Google Docs Roadmap](https://docs.google.com/document/d/1HV-vIOwZU5pDtO8FsTe2HnzsJ_WVulUIp7fOC7AiXhs/edit?tab=t.0)
+- - 📊 **Daily Progress Tracker:** [TRACKER.md (Click here to see progress)](https://github.com/bkbilal009/Python-Beginner-to-OOPs-30Days/blob/main/TRACKER.md)
 - 💻 **GitHub Repository:** [Python-Beginner-to-OOPs-30Days](https://github.com/bkbilal009/Python-Beginner-to-OOPs-30Days)
 - 🤝 **Connect with me on LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-dev/)
 
