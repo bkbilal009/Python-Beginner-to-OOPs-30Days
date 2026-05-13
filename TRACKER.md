@@ -16,7 +16,7 @@ Welcome to my 30-day learning log! This sheet tracks my daily topics, resources,
 | Day | Topic / Concept | Resource Link | Status |
 |:---:|:---|:---:|:---:|
 | 00 | Course Announcement & Outline Discussion | [🎥 Watch Video](https://youtu.be/fLDZuEFmLHQ?si=HtT7UVmvexLvZmOn) | ✅ |
-| 01 | Introduction to Python (History, Why, How) | [🎥 Watch Video](#) | ⬜ |
+| 01 | Introduction to Python (History, Why, How) | [🎥 Watch Video](#) | ✅ |
 | 02 | Python Syntax, Comments & First Script | [🎥 Watch Video](#) | ⬜ |
 | 03 | Variables & Fundamental Data Types | [🎥 Watch Video](#) | ⬜ |
 | 04 | Operators (Arithmetic, Logical, Comparison) | [🎥 Watch Video](#) | ⬜ |
