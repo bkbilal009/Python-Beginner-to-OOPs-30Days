@@ -2,16 +2,16 @@
 Welcome to my 30-day learning log! This sheet tracks my daily topics, resources, and completion status.
 
 📋 **Course Details**
+
 Instructor: **Muhammad Bilal**
+
 YouTube Channel: **Code with Bilal**
+
 Duration: **1-30days**
+
 Goal: Master Python + OOPs Concept with daily life example 
 
-# 📋 Python + OOPs Journey Progress Tracker
 
-Welcome to my 30-day learning log! This sheet tracks my daily topics, resources, and completion status.
-
----
 
 ### 🚀 Daily Onboarding Sheet
 
